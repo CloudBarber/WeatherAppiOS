@@ -1,0 +1,6 @@
+framework module Pods_InClass8UITests {
+  umbrella header "Pods-InClass8UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
